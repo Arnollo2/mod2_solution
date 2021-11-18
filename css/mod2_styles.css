@@ -72,6 +72,7 @@ div.text{
     border: 1px solid green;
     width: 31.333%;
     margin:1%;
+    background-color: #ECECEC; 
 
   }
 }
@@ -83,6 +84,7 @@ div.text{
     float: left;
     border: 1px solid green;
     margin:1%;
+    background-color: #ECECEC; 
   }
 
   .col-md-6 { /*section 1-2*/
@@ -101,4 +103,6 @@ div.text{
     border: 1px solid green;
     margin:1%;
     width: 98%;
+    background-color: #ECECEC; 
+
 }
